@@ -94,7 +94,11 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
-
-
+    <student>
+        <firstname>Hubert</firstname>
+        <lastname>Kurek</lastname>
+        <email>hkurkov@gmail.com</email>
+        <github>kurkov-lab</github>
+        <group>KrDZIs3011Io</group>
+    </student>
 </students>
